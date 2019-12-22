@@ -1,0 +1,1 @@
+This is Plus' first git project
